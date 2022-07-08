@@ -1,0 +1,15 @@
+C:\ClasseAluno\ExemploClasseAluno\bin\Debug\net6.0\ExemploClasseAluno.exe
+C:\ClasseAluno\ExemploClasseAluno\bin\Debug\net6.0\ExemploClasseAluno.deps.json
+C:\ClasseAluno\ExemploClasseAluno\bin\Debug\net6.0\ExemploClasseAluno.runtimeconfig.json
+C:\ClasseAluno\ExemploClasseAluno\bin\Debug\net6.0\ExemploClasseAluno.dll
+C:\ClasseAluno\ExemploClasseAluno\bin\Debug\net6.0\ExemploClasseAluno.pdb
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.csproj.AssemblyReference.cache
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.AssemblyInfoInputs.cache
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.AssemblyInfo.cs
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.csproj.CoreCompileInputs.cache
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.dll
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\refint\ExemploClasseAluno.dll
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.pdb
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ExemploClasseAluno.genruntimeconfig.cache
+C:\ClasseAluno\ExemploClasseAluno\obj\Debug\net6.0\ref\ExemploClasseAluno.dll
